@@ -4,6 +4,8 @@ Este projeto é um **Trainer simples em Python** que utiliza a biblioteca `pymem
 
 ---
 
+![Trainer GUI Preview](./example.png)
+
 ## ✅ Funcionalidades
 
 - [x] Interface gráfica com botões para ligar/desligar cada função
@@ -56,16 +58,6 @@ A modificação de softwares de terceiros sem permissão pode violar leis de dir
 
 O autor não se responsabiliza por usos indevidos do código.
 
-📚 Aprendizado
-Este projeto ensina:
-
-Como usar pymem para interagir com a memória de processos.
-
-Como encontrar e monitorar valores com Cheat Engine.
-
-Como criar uma interface com tkinter.
-
-Princípios básicos de engenharia reversa para jogos educacionais.
 
 👨‍💻 Autor
 Desenvolvido por Caio Henrique Coelho — para fins de estudo e aprendizado.
